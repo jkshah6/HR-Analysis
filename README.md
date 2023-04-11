@@ -10,7 +10,7 @@ To find the reason why the employees leaving the company and how many employees 
 ﻿important beneficial to investigate whether there are any issues related to job satisfaction or career growth opportunities are contributing to the high attrition rate.
  
  
- #Project Learning:
+ # Project-Learning:
 
 ﻿Created interactive dashboard to track and analyze HR data
 ﻿Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
