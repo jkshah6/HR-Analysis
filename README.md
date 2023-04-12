@@ -17,3 +17,12 @@ To find the reason why the employees leaving the company and how many employees 
 ﻿Created interactive dashboard to track and analyze HR data
 ﻿Created connections, join new tables, calculations to manipulate data and enable user driven parameters for visualizations
 ﻿Used different types of customized visualizations (bar chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc.)
+
+# Project Key-Points
+﻿ Data Collection
+﻿ Data Cleaning and Wrangling
+﻿ Data Modeling
+﻿ Data Visualization
+﻿ Datashboard Design
+﻿ Sharing Insights
+
